@@ -1,4 +1,4 @@
-#Pulse AI
+<h1>Pulse AI</h1>
 <h2>Description:</h2>
 <ul>
   <li>Developed and designed Pulse AI using HTML, CSS, and Bootstrap, achieving an intuitive user interface. </li>
