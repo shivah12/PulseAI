@@ -96,7 +96,7 @@ nav {
 
 /* Style for the video element */
 #video-bg {
-    position: absolute;
+    position: relative;
     
     transform: translate(-50%, -50%);
     max-width: 50%;
